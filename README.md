@@ -1,5 +1,1 @@
-[![nick is a dick][1.1]][1]
-
-[1.1]: https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667
-
-[1]: https://discord.gg/XTsCQNd
+hey, how you doin? im doin great.
